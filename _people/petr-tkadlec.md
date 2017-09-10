@@ -5,6 +5,7 @@ fullname: Petr Tkadlec  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zlk
 - ga
+- pks
 img: people/petr-tkadlec.jpg # 165 x 220
 description: Předseda zlínského krajského sdružení             	# kratký popis, max 160 znaků
 mail:
@@ -13,7 +14,8 @@ mob:			  +420 724 879 117
 profiles:
   github:                 
   twitter:
-  facebook: 		  https://www.facebook.com/peetee87		  
+  facebook: 		  https://www.facebook.com/peetee87
+ordzlk: 1		  
 ---
 
 Petr Tkadlec (* 17. října 1987) je členem krajského sdružení Zlínského kraje. Pochází ze Vsetína, v kterém stále žije.

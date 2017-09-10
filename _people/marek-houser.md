@@ -4,6 +4,7 @@ name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zlk
+- pks
 img: people/marek-houser.jpg # 165 x 220
 description: místopředsedou KS Zlínský kraj            	# kratký popis, max 160 znaků
 mail:
@@ -12,7 +13,8 @@ mob:
 profiles:
   github:                 
   twitter:
-  facebook:		  
+  facebook:
+ordzlk: 2		  
 ---
 
 Marek Houser (* 6. prosince 1988 ve Zlíně) je předsedou MS Zlín a 1. místopředsedou KS Zlínský kraj. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.

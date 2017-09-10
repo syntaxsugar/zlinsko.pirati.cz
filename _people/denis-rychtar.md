@@ -4,6 +4,7 @@ name:     Denis Rychtar  	# běžně používáné jméno
 fullname: Denis Rychtar  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zlk
+- pks
 img: people/denis-rychtar.jpg # 165 x 220
 description: 2. místopředseda Zlínského Kraje             	# kratký popis, max 160 znaků
 mail:
@@ -12,7 +13,8 @@ mob:
 profiles:
   github:                 
   twitter:
-  facebook:		  
+  facebook:
+ordzlk: 3		  
 ---
 
 Denis Rychtar 14.08. 1990 2. místopředseda Zlínského Kraje, předseda Místního Sdružení ValMez. Narozen v Novém Jičíně od roku 2003 žiji ve Valašském Meziříčí.
