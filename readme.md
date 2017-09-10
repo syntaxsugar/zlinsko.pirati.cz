@@ -61,3 +61,14 @@ Některé údaje jsou uvedeny v složce `_data`. Jsou zde ve formátu yaml nebo 
 **JavaScript** je ve složce `_include/js`. Knihovny jsou definovány v `bower.json` a produkční soubor je tvořen gulpem.
 
 Jekyll má velmi podrobnou [dokumentaci](http://jekyllrb.com/docs/home/). A při vývoji též doporučuji [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
+
+
+## Site Setup
+
+### Site Wide Configuration
+
+`_config.yml` is right place to configure site.
+
+#### tw
+
+if variable is set, than TW icon will be showed in top bar, footer and right bar.
