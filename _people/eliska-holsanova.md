@@ -3,7 +3,7 @@ uid: eliska.holsanova
 name:     Eliška Holšánová  	# běžně používáné jméno
 fullname: Eliška Holšánová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
+- zlk
 img: people/eliska-holsanova.jpg # 165 x 220
 description: Studentka kulturní antropologie, matka na rodičovské dovolené             	# kratký popis, max 160 znaků
 mail:

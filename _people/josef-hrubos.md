@@ -5,7 +5,7 @@ fullname: Josef Hruboš  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zlk
 img: people/josef-hrubos.jpg   # 165 x 220
-description: předseda krajského sdružení Zlínského kraje           	# kratký popis, max 160 znaků
+description: servisní technik stínící techniky, OSVČ, odborník na světelné znečištění.          	# kratký popis, max 160 znaků
 mail:
 - josef.hrubos@pirati.cz
 mob:			  

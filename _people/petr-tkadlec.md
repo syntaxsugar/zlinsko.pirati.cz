@@ -3,7 +3,8 @@ uid: petr.tkadlec
 name:     Petr Tkadlec  	# běžně používáné jméno
 fullname: Petr Tkadlec  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
+- zlk
+- ga
 img: people/petr-tkadlec.jpg # 165 x 220
 description: Předseda zlínského krajského sdružení             	# kratký popis, max 160 znaků
 mail:

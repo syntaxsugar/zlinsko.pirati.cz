@@ -3,7 +3,7 @@ uid: denis.rychtar
 name:     Denis Rychtar  	# běžně používáné jméno
 fullname: Denis Rychtar  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
+- zlk
 img: people/denis-rychtar.jpg # 165 x 220
 description: 2. místopředseda Zlínského Kraje             	# kratký popis, max 160 znaků
 mail:

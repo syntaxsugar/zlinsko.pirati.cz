@@ -3,7 +3,6 @@ uid: jakub.stacke
 name:     Jakub Stacke  	# běžně používáné jméno
 fullname: Jakub Stacke  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
 img: people/jakub-stacke.jpg # 165 x 220
 description: internetový troll             	# kratký popis, max 160 znaků
 mail:

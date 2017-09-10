@@ -3,7 +3,6 @@ uid: radomir.polach
 name:     Radomír Polách  	# běžně používáné jméno
 fullname: Ing. Radomír Polách  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
 img: people/radomir-polach.jpg # 165 x 220
 description: odborný asistent (FIT ČVUT), softwarový inženýr, OSVČ, programátor, student doktorského studia             	# kratký popis, max 160 znaků
 mail:

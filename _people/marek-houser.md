@@ -3,7 +3,7 @@ uid: marek.houser
 name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
+- zlk
 img: people/marek-houser.jpg # 165 x 220
 description: místopředsedou KS Zlínský kraj            	# kratký popis, max 160 znaků
 mail:

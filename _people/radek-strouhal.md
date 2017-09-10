@@ -3,7 +3,7 @@ uid: radek.strouhal
 name:     Radek Strouhal  	# běžně používáné jméno
 fullname: Ing. Radek Strouhal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zlin
+- zlk
 img: people/radek-strouhal.jpg # 165 x 220
 description: Podnikatel, vývojář databázových informačních systémů             	# kratký popis, max 160 znaků
 mail:
