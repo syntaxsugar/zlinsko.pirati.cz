@@ -47,9 +47,6 @@ collections:
   teams:
     output: true
     permalink: /pripoj-se/:title/
-  elections:
-    output: true
-    permalink: /volby/:path/
 
 defaults:   # defaults values for collection scope
   -
